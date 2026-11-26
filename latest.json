@@ -1,0 +1,11 @@
+{
+  "version": "0.1.19",
+  "notes": "Solutions tab redesign: read header, footprint strip, switch tiles",
+  "pub_date": "2026-11-26T01:59:50Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa1pVUGcrQno3V2VaellOYzJhQytXaDJmdDRiZ1N4TE9ER0c3dC9IMmMyVnVMUDNoZ3VUZlNVWEpxVU1zVVFub1VCVFVJSVVVK0Q4b2p4ckwyNk5wNU01RUpUaFVEWVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjU4MzkwCWZpbGU6RWN1TG9naWNfMC4xLjE5X3g2NC1zZXR1cC5leGUKajJrTUJSVDdVL2JoRnZMT0FyK1FGQ2x4U0tFSElETlhBRS9WYUV0Z0x1Q2M4ZDJEcVpObkhMMFVsdzloVUVSMDhvZW9LRGI4aWV1cm04RGd5VDlIQ0E9PQo=",
+      "url": "https://raw.githubusercontent.com/shortysmechanical-design/tuning-software-updates/main/EcuLogic_0.1.19_x64-setup.exe"
+    }
+  }
+}
